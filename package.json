@@ -1,7 +1,7 @@
 {
-  "name": "nodekb",
+  "name": "nodeapp",
   "version": "1.0.0",
-  "description": "Simple Blog Post Application",
+  "description": "Blog Post Application",
   "main": "app.js",
   "scripts": {
     "start": "node app"
